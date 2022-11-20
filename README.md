@@ -1,4 +1,4 @@
-#Simple Auth Server 📡
+# Simple Auth Server 📡
 
 ---
 
@@ -11,7 +11,7 @@
 
 ---
 
-##Functionality 🚗
+## Functionality 🚗
 
 - Registering a user
 - Sign in a user
